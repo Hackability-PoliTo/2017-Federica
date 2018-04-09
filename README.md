@@ -7,7 +7,7 @@ Le idee proposte sono principalmente due:
 -Un puntatore laser posizionato sulla testa tramite cerchietto o fascia elastica unito ad una tavoletta alfabetica simile a quella che lei già usa, munita però di fotoresistenze. Puntando la lettera con il laser la fotoresistenza lo rileva e tramite un software di conversione viene scritta su schermo.
 -Uno o più pulsanti utilizzati per comunicare tramite codice morse; un software di conversione traduce il codice morse in codice ASCII in modo che la parola o la frase sia visualizzata su schermo.
 
-`Federica preferisce la seconda soluzione in quanto la prima risultava più difficile da utilizzare poiché rihiedeva una precisione di movimento con la testa alta per le sue capacità.`
+`Federica preferisce la seconda soluzione in quanto la prima risultava più difficile da utilizzare poiché richiedeva una precisione di movimento con la testa alta per le sue capacità.`
 
 ## Primo Prototipo
 
