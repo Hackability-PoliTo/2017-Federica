@@ -25,3 +25,8 @@ Per il secondo prototipo si prevede di:
 
 
 # Team
+- Brunella Vizziello [facebook](https://www.facebook.com/brunella.vizziello.9)
+- Diego Gibello Foglio [facebook](https://www.facebook.com/diego.gibellofoglio)
+- Francesca Tivano [facebook](https://www.facebook.com/francesca.tivano)
+- Gaia Marchetti [facebook](https://www.facebook.com/gaia.marchetti.58)
+- Luca Rabezzana [facebook](https://www.facebook.com/luca.rabezzana.1)
